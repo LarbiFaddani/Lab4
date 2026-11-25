@@ -1,0 +1,9 @@
+Scopus    :  3751 références
+WoS       :  2416 références
+IEEE      :  3574 références
+OpenAlex  :  4570 références
+
+TOTAL : 14311 lignes (sans déduplication)
+ID répétés (groupes candidats) : 3687
+CSV : data/merged/raw_bibliographic_dataset.csv
+Rapport : results/rapport_normalisation.json

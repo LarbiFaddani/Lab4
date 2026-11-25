@@ -1,0 +1,60 @@
+{
+  "generation_utc": "2026-11-25T17:44:27.020234+00:00",
+  "inputs": {
+    "Scopus": {
+      "fichier": "scopus.csv",
+      "rows": 3751,
+      "missing_doi": 37,
+      "missing_authors": 1
+    },
+    "WoS": {
+      "fichier": "wos.csv",
+      "rows": 2416,
+      "missing_doi": 30
+    },
+    "IEEE": {
+      "fichier": "IEEE.csv",
+      "rows": 3574,
+      "missing_doi": 31,
+      "missing_authors": 2,
+      "missing_year": 3
+    },
+    "OpenAlex": {
+      "fichier": "openAlex.csv",
+      "rows": 4570,
+      "missing_doi": 121,
+      "missing_authors": 23
+    }
+  },
+  "total_lignes_brutes": 14311,
+  "colonnes": [
+    "id",
+    "title",
+    "authors",
+    "year",
+    "source",
+    "doi"
+  ],
+  "identifiants_distincts": 7131,
+  "groupes_id_repetes": 3687,
+  "lignes_dans_groupes_id_repetes": 10867,
+  "lignes_excedentaires_si_groupes_confirmes": 7180,
+  "avertissement": "Ces ID répétés sont des candidats à vérifier, pas des doublons validés. Aucune ligne n'a été supprimée. Les articles sans DOI sont rapprochés par titre normalisé + année. Un DOI absent/invalide n'est pas inventé.",
+  "exemples_identifiants_repetes": {
+    "doi:10.1038/s41598-026-66517-x": 3,
+    "doi:10.1007/s10586-025-05894-w": 3,
+    "doi:10.1145/3813822.3814086": 2,
+    "doi:10.1109/mcomstd.2026.3662187": 3,
+    "doi:10.1016/j.jisa.2025.104348": 3,
+    "doi:10.1016/j.atech.2026.102488": 3,
+    "doi:10.1007/978-3-032-35173-9_4": 2,
+    "doi:10.1038/s41598-026-59224-0": 3,
+    "doi:10.1007/s11276-026-04185-5": 3,
+    "doi:10.1016/j.compeleceng.2026.111597": 3,
+    "doi:10.1109/jiot.2026.3711890": 4,
+    "doi:10.1016/j.adhoc.2026.104410": 3,
+    "doi:10.1007/s10462-026-11540-7": 3,
+    "doi:10.1016/j.ijpe.2025.109768": 3,
+    "doi:10.1007/s42417-026-02605-6": 3
+  }
+}

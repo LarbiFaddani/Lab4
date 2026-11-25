@@ -1,0 +1,25 @@
+test_doi_invalide (test_pipeline.TestNormalisation.test_doi_invalide) ... ok
+test_doi_url (test_pipeline.TestNormalisation.test_doi_url) ... ok
+test_id_hash_same_title_year (test_pipeline.TestNormalisation.test_id_hash_same_title_year) ... ok
+test_id_partage_doi (test_pipeline.TestNormalisation.test_id_partage_doi) ... ok
+test_titre_unicode (test_pipeline.TestNormalisation.test_titre_unicode) ... ok
+test_year_date (test_pipeline.TestNormalisation.test_year_date) ... ok
+test_detection_sur_fixture (test_pipeline.TestPipeline.test_detection_sur_fixture) ... ok
+test_fusion_complete_sans_suppression (test_pipeline.TestPipeline.test_fusion_complete_sans_suppression) ... ok
+test_colonnes_et_donnees_observees (test_real_dataset.TestCorpusReel.test_colonnes_et_donnees_observees) ... ok
+test_defis_documentes (test_real_dataset.TestCorpusReel.test_defis_documentes) ... ok
+test_nombre_et_provenance (test_real_dataset.TestCorpusReel.test_nombre_et_provenance) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 1.375s
+
+OK
+Scopus    :     1 références
+WoS       :     1 références
+IEEE      :     1 références
+OpenAlex  :     1 références
+
+TOTAL : 4 lignes (sans déduplication)
+ID répétés (groupes candidats) : 1
+CSV : /tmp/tmpgiizn0to/dataset.csv
+Rapport : /tmp/tmpgiizn0to/report.json

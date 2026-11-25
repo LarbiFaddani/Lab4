@@ -1,0 +1,301 @@
+﻿csv_line,source,title,year,doi,anomalies
+6,Scopus,A Secure Blockchain-Enabled Federated Learning Framework for Privacy-Preserving Public Health Surveillance and Pandemic Intelligence,2026,,missing_doi
+9,Scopus,"Revolutionizing IoT with 6G and Edge Intelligence: A Survey on Architectures, Challenges and Future Directions",2027,10.1007/978-3-032-35173-9_4,year_outside_2020_2026_or_missing
+12,Scopus,Decentralized peer-to-peer energy trading in residential microgrids: A federated learning-enhanced framework with network-aware consensus and blockchain validation,2027,10.1016/j.compeleceng.2026.111597,year_outside_2020_2026_or_missing
+14,Scopus,"Privacy-preserving techniques in UAV networks: A systematic literature review of methods, tools, and future directions",2027,10.1016/j.adhoc.2026.104410,year_outside_2020_2026_or_missing
+20,Scopus,Adaptive Multi-protocol IoMT Framework: AI-Driven Optimization for Security and Energy Efficiency,2027,10.1007/978-3-032-28478-5_31,year_outside_2020_2026_or_missing
+21,Scopus,A hierarchical federated learning trusted collaboration and auditable mechanism based on DAG–consortium chain hybrid ledger,2027,10.1016/j.future.2026.108849,year_outside_2020_2026_or_missing
+32,Scopus,Decentralized Gradient Verification in Federated Learning Via Recursive zk-SNARKs,2027,10.1007/978-3-032-37444-8_29,year_outside_2020_2026_or_missing
+36,Scopus,Enhanced AI Powered Cardiovascular Disease Prediction Using Federated Learning with Blockchain Security Framework for Reliable Medical Data,2027,10.1007/978-3-032-34789-3_1,year_outside_2020_2026_or_missing
+41,Scopus,Assessing IoMT Network Resilience: A Comparative Performance Analysis of Simulated Attacks Using NS-3,2027,10.1007/978-3-032-34792-3_14,year_outside_2020_2026_or_missing
+56,Scopus,Chain-Resilience: A Blockchain-Based Federated Continual Learning Framework for Defending Against Forgetting and Distrust,2027,10.1007/978-3-032-37274-1_27,year_outside_2020_2026_or_missing
+67,Scopus,IoT Systems Security Enhanced Based on Federated Learning and Blockchain Technology,2027,10.1007/978-3-032-33957-7_18,year_outside_2020_2026_or_missing
+77,Scopus,TASL: Byzantine-resilient swarm learning with tripartite auditing and hierarchical blockchain storage,2027,10.1016/j.ins.2026.124400,year_outside_2020_2026_or_missing
+78,Scopus,"Next-Generation Mental Health Monitoring: AI, Blockchain, and Cyber-Physical Systems in Action",2027,10.1007/978-3-032-19303-2_22,year_outside_2020_2026_or_missing
+115,Scopus,Blockchain-Based Federated Unlearning: A Survey,2027,10.1007/978-981-92-2973-4_2,year_outside_2020_2026_or_missing
+118,Scopus,Integrating Blockchain with Federated Learning for Detecting Alzheimer Disease,2027,10.1007/978-3-032-10303-1_6,year_outside_2020_2026_or_missing
+120,Scopus,Trustless IoT Data Sharing via Lightweight Blockchain and Federated Learning,2027,10.1007/978-981-95-4448-6_26,year_outside_2020_2026_or_missing
+154,Scopus,Blockchain and Deep Learning for Enhanced IoT Security and Privacy: A Scoping Review,2027,10.1007/978-3-032-28094-7_19,year_outside_2020_2026_or_missing
+165,Scopus,Graph distillation for cross-institutional anti-money laundering on Bitcoin: A utility–privacy–communication evaluation,2027,10.1016/j.eswa.2026.134215,year_outside_2020_2026_or_missing
+166,Scopus,Research on Communication Technology of High-Performance Federated Learning Platform,2027,10.1007/978-981-92-2973-4_4,year_outside_2020_2026_or_missing
+185,Scopus,Blockchain-based secure provenance and auditability mechanism for medical IoT devices in healthcare ecosystems,2027,10.1016/j.bspc.2026.111513,year_outside_2020_2026_or_missing
+213,Scopus,Blockchain-Enabled Federated Learning for Privacy-Preserving Cyber Threat Detection,2027,10.1007/978-3-032-29237-7_14,year_outside_2020_2026_or_missing
+215,Scopus,"AI-Driven Blockchain Framework for Optimizing Latency, Reliability, and Energy-Efficient QoS in 5G/6G Mobile Networks",2026,,missing_doi
+231,Scopus,Security-as-a-Function for Edge–Fog–Cloud multimedia systems: A zero-trust IoMulT surveillance framework,2027,10.1016/j.ins.2026.124238,year_outside_2020_2026_or_missing
+232,Scopus,Financial and carbon-aware cashback mechanisms applied in blockchain-enabled VPP ensuring user data privacy through federated learning,2027,10.1016/j.ref.2026.100954,year_outside_2020_2026_or_missing
+246,Scopus,"Machine learning and artificial intelligence models and techniques in modern power grid communication architecture: A survey of technology, research gaps, applications, and sustainable solution",2027,10.1016/j.rser.2026.117367,year_outside_2020_2026_or_missing
+249,Scopus,A Robust and Privacy-Preserving Blockchain-Based Clustering Decentralized Federated Learning Framework,2027,10.1007/978-981-92-6840-5_23,year_outside_2020_2026_or_missing
+290,Scopus,T-FedShapley: Trust-Driven Fair Incentive Mechanism for Decentralized Data Markets,2027,10.1007/978-981-92-3403-5_34,year_outside_2020_2026_or_missing
+310,Scopus,Public-Blockchain-Based Federated Learning with Fully On-Chain Aggregation,2027,10.1007/978-3-032-36766-2_2,year_outside_2020_2026_or_missing
+315,Scopus,"MEDGUARD: A GRAPH-AUGMENTED, FEDERATED AND EXPLAINABLE AI FRAMEWORK ON BLOCKCHAIN FOR HEALTHCARE INSURANCE FRAUD DETECTION",2026,,missing_doi
+323,Scopus,Enhanced Anomaly Detection in Smart Grid Metering with a Two-Stage Autoencoder and XGBoost Framework,2027,10.1007/978-3-032-28573-7_25,year_outside_2020_2026_or_missing
+333,Scopus,A Decentralized Secure Federated Learning Method for Medical Data,2027,10.1007/978-981-92-2973-4_1,year_outside_2020_2026_or_missing
+356,Scopus,FL-Forensics: A Blockchain-Enabled Framework for Forensic Accountability and Auditability in Federated Learning,2027,10.1007/978-3-032-37274-1_26,year_outside_2020_2026_or_missing
+386,Scopus,CANCEL: Collaborative and Adaptive Intrusion Detection in Autonomous Connected Vehicles,2027,10.1007/978-981-92-6840-5_2,year_outside_2020_2026_or_missing
+388,Scopus,Unified DT–FL–DRL–Blockchain Framework for MEC Offloading,2027,10.1007/978-3-032-39763-8_7,year_outside_2020_2026_or_missing
+392,Scopus,Incentive-Driven Zero-Knowledge Proof-Based Gradient Aggregation for Federated Learning,2027,10.1007/978-981-95-9514-3_31,year_outside_2020_2026_or_missing
+411,Scopus,"Artificial Intelligence Driven Healthcare-A Survey of Machine Learning, Deep Learning and Intelligent Predictive Methods",2026,,missing_doi
+415,Scopus,A Secure Federated Learning Paradigm Based on Homomorphic Encryption and Distributed Trust,2027,10.1007/978-3-032-39711-9_3,year_outside_2020_2026_or_missing
+416,Scopus,RCIM-FL: Incentive Mechanism for Federated Learning Based on Reputation Mechanism and Contract Theory,2027,10.1007/978-981-92-3450-9_7,year_outside_2020_2026_or_missing
+428,Scopus,"AI-Verified Blockchain Trust Architecture for Secure, Explainable, and Interoperable Healthcare Systems",2027,10.1007/978-3-032-36773-0_2,year_outside_2020_2026_or_missing
+432,Scopus,Personalized vs. Federated Physiological Anomaly Detection: Comparative Analysis of Blockchain-Verified and Centralized Architectures for Military Monitoring,2027,10.1007/978-3-032-38809-4_24,year_outside_2020_2026_or_missing
+456,Scopus,Requirements and Cost Analysis of Blockchain and Smart Contracts in Telecommunications,2027,10.1007/978-3-032-28100-5_41,year_outside_2020_2026_or_missing
+473,Scopus,Blockchain-Enabled Federated Learning for Collaborative Autonomous Vehicles,2027,10.1007/978-3-032-32726-0_10,year_outside_2020_2026_or_missing
+491,Scopus,FedCHO: Closed-loop hierarchical orchestration for blockchain-based byzantine-robust federated learning,2027,10.1016/j.ins.2026.124194,year_outside_2020_2026_or_missing
+791,Scopus,A Survey Paper on Enhancing Privacy and Security in Decentralized Healthcare with Federated Learning and Blockchain,2026,,missing_doi
+884,Scopus,A Privacy-Preserving Healthcare Architecture using Blockchain and Advanced Deep Learning,2026,,missing_doi
+913,Scopus,Beyond the Hype: A Novel Hybrid Architecture for Layer-2 Scalability Integration & Privacy Preserving Computations,2026,,missing_doi
+1029,Scopus,Securing the Road Ahead: A Comprehensive Review of Hybrid Deep Learning and Optimization-based Intrusion Detection in Vehicular Networks,2026,,missing_doi
+1062,Scopus,A Review of Blockchain-Enabled Federated Learning Systems for Privacy-Preserving Artificial Intelligence,2026,,missing_doi
+1130,Scopus,A SYSTEMATIC REVIEW ON ENHANCING IOT SECURITY WITH DEEP LEARNING AND BIG DATA ANALYTICS,2025,,missing_doi
+1349,Scopus,AI-Driven Predictive Threat Detection and Cyber Risk Mitigation: A Survey,2025,,missing_doi
+1385,Scopus,Cyber Sentry: Strengthening Security Infrastructure for Industrial Cyber-Physical Systems Using Federated Deep Learning,2025,,missing_doi
+1522,Scopus,FBA SHIELD: ENHANCING PRIVACY PRESERVING VULNERABILITY MANAGEMENT FOR SECURITY BY DESIGN IN MEDICAL IOT ECOSYSTEMS,2025,,missing_doi
+1599,Scopus,Secure Federated Learning for Healthcare: Blockchain-based Model Verification Against Poisoning Attacks,2025,,missing_doi
+1953,Scopus,ENHANCING AIOT WITH COMMUNICATION-EFFICIENT FEDERATED LEARNING: A BLOCKCHAIN-ENABLED APPROACH FOR GREEN AND SECURE IOT SYSTEMS,2025,,missing_doi
+1976,Scopus,Federated Learning with Blockchain for Trustworthy and Decentralized EHR Sharing in Cloud-based E-Health Systems,2025,,missing_doi
+2091,Scopus,AI-DRIVEN EMERGENCY HEALTH DATA ACCESS FOR FIRST RESPONDERS USING HYBRID BLOCKCHAIN ARCHITECTURE,2025,,missing_doi
+2095,Scopus,AI-Driven Decentralized IoT for Secure and Scalable Healthcare,2025,,missing_doi
+2118,Scopus,At the Cusp of Next Generation Quantum-based Cyber-Physical Production Systems security in Transport Manufacturing Systems,2025,,missing_doi
+2344,Scopus,TRANSFORMING HEALTHCARE WITH FEDERATED LEARNING: SECURING FOG SYSTEMS FOR THE NEXT GENERATION,2024,,missing_doi
+2364,Scopus,AI-Driven Security Solutions for Industrial IoT: Challenges and Future Directions,2025,,missing_doi
+2382,Scopus,Rethinking the Temperature for Federated Heterogeneous Distillation,2025,,missing_doi
+2430,Scopus,AI-BLOCKCHAIN HYBRID SMART CONTRACT MODEL: FRAUD DETECTION AND IMMUTABLE RECORD KEEPING IN INSURANCE,2025,,missing_doi
+2436,Scopus,Blockchain-Based Decentralized Federated Learning for Privacy-Preserving Traffic Flow Prediction: A Case Study with PeMS-8 Data,2024,,missing_doi
+2546,Scopus,Resilient Healthcare 5.0: Advancing Human-Centric and Sustainable Practices in Smart Healthcare Systems,2024,,missing_doi
+2548,Scopus,Edge-AI based Plant Leaf Disease Identification and Prevention for Smart Agriculture,2024,,missing_doi
+2564,Scopus,Privacy Preservation and Security in Healthcare Systems: An Approach Integrating Federated Learning and Blockchain Technology,2024,,missing_doi
+2624,Scopus,"Design of an Efficient Cloud Security Model through Federated Learning, Blockchain, AI-Driven Policies, and Zero Trust Frameworks",2024,,missing_doi
+2682,Scopus,An Innovative Reliable Client-Centric Deep Learning Inference Methodology,2024,,missing_doi
+2707,Scopus,DETECTION OF ANOMALIES IN BLOCKCHAIN USING FEDERATED LEARNING IN IOT DEVICES,2023,,missing_doi
+2798,Scopus,Enhancing Supply Chains with Blockchain-Driven Reinforcement Learning for Dynamic Inventory Management-Taxonomy and Comparative Analysis,2024,,missing_doi
+2929,Scopus,A Detailed Review on Blockchain-Enabled Deep Learning on Kubernetes for Disease Prediction,2024,,missing_doi
+3185,Scopus,An Architecture for a Decentralised Learning Analytics Platform (Positioning Paper),2023,,missing_doi
+3298,Scopus,A Comprehensive Study of Blockchain for Federated Learning Toward Safe Distributed Machine Learning Systems,2023,10.1109/aisc56616.2023.10085557,missing_authors
+3362,Scopus,"LUUNU - BLOCKCHAIN, MISP, MODEL CARDS AND FEDERATED LEARNING ENABLED CYBER THREAT INTELLIGENCE SHARING PLATFORM",2022,,missing_doi
+3397,Scopus,Federated Machine Learning and Blockchain,2023,,missing_doi
+3625,Scopus,A Systematic Literature Review on How to Improve the Privacy of Artificial Intelligence Using Blockchain,2022,,missing_doi
+3663,Scopus,Federated learning on distributed medical records for detection of lung nodules,2020,,missing_doi
+3816,WoS,Blockchain-Enabled Federated Learning for Collaborative Autonomous Vehicles,2027,10.1007/978-3-032-32726-0_10,year_outside_2020_2026_or_missing
+3871,WoS,Secure FLOATING - Scalable Federated Learning Framework for Real-time Trust in Mobility Data using Secure Multi-Party Computation and Blockchain,2025,,missing_doi
+3876,WoS,Privacy Integrity-Aware Blockchain Communication in Federated Edge Learning Platform,2026,,missing_doi
+4053,WoS,AFLBCRS: Blockchain-Enabled Federated Learning with Ring Signatures,2026,,missing_doi
+4271,WoS,Advancing Healthcare 5.0 through Federated Learning: Opportunity for Security Enforcement using Blockchain,2024,,missing_doi
+4312,WoS,"LUUNU - BLOCKCHAIN, MISP, MODEL CARDS AND FEDERATED LEARNING ENABLED CYBER THREAT INTELLIGENCE SHARING PLATFORM",2022,,missing_doi
+4331,WoS,A Decentralized Secure Federated Learning Method for Medical Data,2027,10.1007/978-981-92-2973-4_1,year_outside_2020_2026_or_missing
+4393,WoS,A Data Sharing Privacy Protection Model Based on Federated Learning and Blockchain Technology,2024,,missing_doi
+4503,WoS,FSCO: A Secure and Adaptive Framework for Supply Chain Optimization,2025,,missing_doi
+4588,WoS,Security-as-a-Function for Edge-Fog-Cloud multimedia systems: A zero-trust IoMulT surveillance framework,2027,10.1016/j.ins.2026.124238,year_outside_2020_2026_or_missing
+4645,WoS,A Blockchain-Governed Clinical Decision Support Framework with Federated Learning and Explainability,2026,,missing_doi
+4693,WoS,A blockchain-empowered federated learning-based framework for data privacy in lung disease detection system,2026,,missing_doi
+4854,WoS,MPFL: A Decentralised Federated Learning Framework Based on Multi -Population Genetic Algorithm,2025,,missing_doi
+4855,WoS,"Privacy-preserving techniques in UAV networks: A systematic literature review of methods, tools, and future directions☆",2027,10.1016/j.adhoc.2026.104410,year_outside_2020_2026_or_missing
+4927,WoS,SURVEY ON TECHNICAL ADVANCEMENTS AND RENOVATIONS IN FEDERATED LEARNING,2024,,missing_doi
+5075,WoS,Protecting Personal Healthcare Record Using Blockchain & Federated Learning Technologies,2022,,missing_doi
+5079,WoS,Protecting Personal Healthcare Record Using Blockchain & Federated Learning Technologies,2021,,missing_doi
+5125,WoS,IoT Systems Security Enhanced Based on Federated Learning and Blockchain Technology,2027,10.1007/978-3-032-33957-7_18,year_outside_2020_2026_or_missing
+5146,WoS,SOCIALLY RESPONSIBLE USE OF ARTIFICIAL INTELLIGENCE IN SMART CITIES: AN ETHICAL IMPERATIVE,2024,,missing_doi
+5154,WoS,Research on Communication Technology of High-Performance Federated Learning Platform,2027,10.1007/978-981-92-2973-4_4,year_outside_2020_2026_or_missing
+5160,WoS,Blockchain-Assisted Serverless Framework for AI-Driven Healthcare Applications,2025,,missing_doi
+5177,WoS,Optimized Secure Federated Learning for Event Detection in Big Data using Blockchain Mechanism,2023,,missing_doi
+5184,WoS,Decentralized peer-to-peer energy trading in residential microgrids: A federated learning-enhanced framework with network-aware consensus and blockchain validation,2027,10.1016/j.compeleceng.2026.111597,year_outside_2020_2026_or_missing
+5262,WoS,Blockchain-based secure provenance and auditability mechanism for medical IoT devices in healthcare ecosystems,2027,10.1016/j.bspc.2026.111513,year_outside_2020_2026_or_missing
+5370,WoS,FedCHO: Closed-loop hierarchical orchestration for blockchain-based byzantine-robust federated learning,2027,10.1016/j.ins.2026.124194,year_outside_2020_2026_or_missing
+5379,WoS,Blockchain-Based Federated Unlearning: A Survey,2027,10.1007/978-981-92-2973-4_2,year_outside_2020_2026_or_missing
+5390,WoS,A Review of Federated Learning Attacks: Threat Models and Defence Strategies,2025,,missing_doi
+5409,WoS,A comprehensive survey of federated learning for intrusion detection systems in Internet of Things environments,2027,10.1016/j.cosrev.2026.101049,year_outside_2020_2026_or_missing
+5417,WoS,Privacy Block-Streaming: A Novel DEX File Loading Scheme Based on Federated Learning,2024,,missing_doi
+5426,WoS,Transforming Classification with Federated Learning on Blockchain: A Unique Model Integration Approach,2025,,missing_doi
+5536,WoS,A hierarchical federated learning trusted collaboration and auditable mechanism based on DAG-consortium chain hybrid ledger,2027,10.1016/j.future.2026.108849,year_outside_2020_2026_or_missing
+5565,WoS,Incentive-Driven Zero-Knowledge Proof-Based Gradient Aggregation for Federated Learning,2027,10.1007/978-981-95-9514-3_31,year_outside_2020_2026_or_missing
+5653,WoS,Incentive Mechanism for Blockchain-Enabled Coded Federated Learning in Edge Clouds,2025,,missing_doi
+5674,WoS,Building Communication Efficient Asynchronous Peer-to-Peer Federated LLMs with Blockchain,2024,,missing_doi
+5681,WoS,AI and Blockchain for Secure Healthcare Data Management: A Bibliometric Analysis of Research Trends and Thematic Clusters (2020-2025),2026,,missing_doi
+5771,WoS,Integrating Sensor-Empowered Federated Learning and Smart Contracts for Automatic Flood Risk Management,2024,,missing_doi
+5780,WoS,DCHM: Dynamic Collaboration of Heterogeneous Models Through Isomerism Learning in a Blockchain-Powered Federated Learning Framework,2025,,missing_doi
+5872,WoS,Financial and carbon-aware cashback mechanisms applied in blockchain-enabled VPP ensuring user data privacy through federated learning,2027,10.1016/j.ref.2026.100954,year_outside_2020_2026_or_missing
+5948,WoS,Graph distillation for cross-institutional anti-money laundering on Bitcoin: A utility-privacy-communication evaluation,2027,10.1016/j.eswa.2026.134215,year_outside_2020_2026_or_missing
+5979,WoS,"Machine learning and artificial intelligence models and techniques in modern power grid communication architecture: A survey of technology, research gaps, applications, and sustainable solution",2027,10.1016/j.rser.2026.117367,year_outside_2020_2026_or_missing
+6077,WoS,Optimizing Edge Computing for Big Data Processing in Smart Cities,2025,,missing_doi
+6080,WoS,A Review of Ransomware Detection Models for Cybersecurity Driven IIoT in Cloud Environments,2025,,missing_doi
+6114,WoS,LLM-augmented semantic edge intelligence in wireless sensor networks and IoT: a review-led evidence synthesis and conceptual framework,2026,,missing_doi
+6115,WoS,Cloud-Continuum-Based Deep Learning Optimization Framework for Next-Generation Healthcare Data Performance on IoT Platform,2026,,missing_doi
+6150,WoS,The Role of Artificial Intelligence in Personalized Medicine: Challenges and Opportunities,2025,,missing_doi
+6166,WoS,"Cyber Shield: Advances in Detection, Isolation, and Containment Mechanisms",2025,,missing_doi
+6182,IEEE,Research on Blockchain Privacy Computing Technology for End-edge-cloud Collaborative Architecture,2023,,missing_doi
+6201,IEEE,Blockchain-based Model for Privacy-enhanced Data Sharing,2023,,missing_doi
+6412,IEEE,Decentralized Reinforced Anonymous FLchain: a Secure Federated Learning Architecture for the Medical Industry,2023,,missing_doi
+6583,IEEE,Bassa-ML — A Blockchain and Model Card Integrated Federated Learning Provenance Platform,2022,,missing_doi
+6747,IEEE,Expansive networks: Exploiting spectrum sharing for capacity boost and 6G vision,2020,,missing_doi
+6756,IEEE,Fake News Detection using a Decentralized Deep Learning Model and Federated Learning,2022,,missing_doi
+6771,IEEE,Industry 4.0 Networks' Federated Blockchain Learning Framework For Cognitive Computing,2023,,missing_doi
+6849,IEEE,Building towards a Responsible Data Economy,2021,10.1109/bigdata52589.2021.9671888,missing_authors
+6992,IEEE,Call for papers: Special issue on privacy-preserving data mining for artificial intelligence of things,2022,10.26599/bdma.2021.9020026,missing_authors
+7017,IEEE,Quantum-Safe Federated Learning: Enhancing Data Privacy and Security,2024,,missing_doi
+7100,IEEE,An Architecture for Privacy-first Security in 6G,,,missing_year; missing_doi; year_outside_2020_2026_or_missing
+7222,IEEE,AI and Blockchain Synergy for Advanced Health Data Processing in IoT,2024,,missing_doi
+7701,IEEE,"VindSec-Llama — Fine-Tuned Meta’s Llama-3 LLM, Federated Learning, Blockchain and PBOM-enabled Data Security Architecture for Wind Energy Data Platforms",2025,,missing_doi
+7748,IEEE,"Privacy Preservation in Distributed Healthcare Systems: A Review of Differential Privacy, Homomorphic Encryption, and Hybrid Approaches",2025,,missing_doi
+7787,IEEE,Optimizing IoMT Security Using Machine Learning: A Use Case-Based Scoping Review Toward Smart and Connected Health,2025,,missing_doi
+7809,IEEE,Mitigating Poisoning Attack Coalitions in FL: A Non-Linear Personalized Approach,2025,,missing_doi
+7981,IEEE,Verifiable and Robust Distributed Deep Learning based on Blockchain Infrastructure,2025,,missing_doi
+7996,IEEE,DKD-ZKFL: Privacy Protection Cross Domain Recommendation Framework for Digital Health,2025,,missing_doi
+8160,IEEE,Federated Learning with Explainable AI for Robust Skin Lesion Classification in Diverse Clinical Settings,2025,,missing_doi
+8229,IEEE,Blockchain and AIML Integration for Scalable IIoT Accounting and Data Trust Management,2025,,missing_doi
+8242,IEEE,"Privacy-Centric and Explainable AI Frameworks: Combining Edge Analytics, DAG-based Systems, and GANs for Pandemic Preparedness and Healthcare Innovation",2025,,missing_doi
+8527,IEEE,Advanced Identification of Online Fraudulent Activities Using Deep Learning,2025,,missing_doi
+8910,IEEE,Research on Data Privacy Protection Mechanisms for Student Management Systems Based on Network and Information Security,2026,,missing_doi
+9128,IEEE,Blockchain-Based Privacy Computation and Compliance Analysis Framework for Student Behavioral Data,2026,,missing_doi
+9187,IEEE,"Quantum-Resistant Collaborative Cyber Threat Fusion using Federated learning, Blockchain and Secure Enclaves",2026,,missing_doi
+9366,IEEE,Evaluating Governance & Effectiveness in Decentralized Autonomous Organizations through Federated Learning,2026,,missing_doi
+9405,IEEE,Green Energy-Aware Blockchain Integrated Edge Cloud for Public Transportation Applications,2026,,missing_doi
+9505,IEEE,Trust-free Personalized Decentralized Learning,2026,,missing_doi
+9523,IEEE,Resilient Privacy-Preserving Collaborative Predictive Maintenance through a Federated Multi-Layer Architecture,,,missing_year; missing_doi; year_outside_2020_2026_or_missing
+9527,IEEE,Cross-Modal Data Integrity Verification in Distributed Transit Networks,,,missing_year; missing_doi; year_outside_2020_2026_or_missing
+9601,IEEE,Blockchain-based privacy protection medical collaboration platform,2026,,missing_doi
+9615,IEEE,Sector-Specific Fairness in AI: A Quasi-Optimization Weight Learning Framework for Critical Industries,2026,,missing_doi
+9653,IEEE,Explainable Deep Learning for Real-Time eHealth Analytics in Edge-Cloud Environment,2026,,missing_doi
+9876,OpenAlex,Blockchain-Based Security Framework for Internet of Things in Smart Cities,2024,,missing_doi
+9891,OpenAlex,"Design of an Efficient Cloud Security Model through Federated Learning, Blockchain, AI-Driven Policies, and Zero Trust Frameworks",2024,,missing_doi
+10192,OpenAlex,ARTIFICIAL INTELLIGENCE AND BLOCKCHAIN INTEGRATION FOR INTELLIGENT IOT SECURITY,2025,10.69980/jab.v11si12.3422,missing_authors
+10194,OpenAlex,Integrating Blockchain with Federated Learning for Privacy-Preserving Data Analytics Across Decentralized Governmental Health Information Systems,2025,10.7753/ijcatr1112.1025,missing_authors
+10258,OpenAlex,"Trust-Aware Blockchain Framework for Secure, Explainable Federated Artificial Intelligence",2026,,missing_doi
+10314,OpenAlex,Pioneering Privacy in Healthcare Analytics with Federated Learning for Next-Generation Data Security Solutions,2024,,missing_doi
+10322,OpenAlex,Blockchain for Healthcare Management: Enhancing Data Security and Transparency,2025,,missing_doi
+10338,OpenAlex,Blockchain Based Deep Fake Detection and Verification,2025,,missing_doi
+10576,OpenAlex,BLOCKCHAIN AND MACHINE LEARNING FOR FRAUD DETECTION: A PRIVACY-PRESERVING AND ADAPTIVE INCENTIVE BASED APPROACH,2026,,missing_doi
+10687,OpenAlex,Integrating Blockchain with Federated Learning for Detecting Alzheimer Disease,2027,10.1007/978-3-032-10303-1_6,year_outside_2020_2026_or_missing
+10732,OpenAlex,Artificial Intelligence and Blockchain Integration for Adaptive Threat Intelligence and Privacy-Preserving Data Governance,2026,,missing_doi
+10853,OpenAlex,Blockchain-enhanced security framework for defense supply chain management: an AI-driven smart contract approach with distributed ledger technology,2026,,missing_doi
+10885,OpenAlex,Privacy Protection and Collaborative Defense System for Software Development Security Detection in Power Industry under Artificial Intelligence Federated Learning Framework,2025,10.70517/ijhsa46416,missing_authors
+10976,OpenAlex,Federated Learning for Secure Blockchain-Based Identity Verification in Decentralized Systems,2025,,missing_doi
+10986,OpenAlex,Personalized and secure crowdsourcing task recommendation empowered by blockchain and federated learning,2026,,missing_doi
+11021,OpenAlex,Secure mobile cloud data using federated learning and blockchain technology,2025,,missing_doi
+11114,OpenAlex,A Decentralized Zero-Trust Framework for Privacy-Preserving Health Data Collection in AIoT-Enabled Wearables,2026,,missing_doi
+11217,OpenAlex,A Review of Privacy Protection Technologies in Medical IoT: a Federated Learning Perspective,2025,,missing_doi
+11251,OpenAlex,Mutual empowerment of distributed AI and blockchain,2025,,missing_doi
+11258,OpenAlex,Blockchain and Federated Learning Integrated Architecture for Secure Internet of Things Data Sharing,2023,,missing_doi
+11259,OpenAlex,A Blockchain and Federated Learning Based Model for Supply Chain Credit Risk Assessment,2025,,missing_doi
+11272,OpenAlex,BLOCKCHAIN-BASED FEDERATED LEARNING WITH SMPC MODEL VERIFICATION AGAINST POISONING ATTACKS FOR HEALTHCARE SYSTEMS,2026,,missing_doi
+11286,OpenAlex,A SURVEY ON BLOCKCHAIN-DRIVEN FEDERATED LEARNING AND EXPLAINABLE AI FRAMEWORKS FOR SECURE FRAUD DETECTION IN DEFI,2026,10.58257/ijprems53238,missing_authors
+11318,OpenAlex,"Navigating the Zero Trust Paradigm in Healthcare: A Comprehensive Evaluation of Legacy System Modernization, Clinical Workstation Security, And Regulatory Compliance",2026,,missing_doi
+11348,OpenAlex,A BLOCKCHAIN-INTEGRATED FRAMEWORK FOR SECURE FEDERATED LEARNING OF ENCRYPTED EHR DATA WITH HOMOMORPHIC ENCRYPTION,2026,,missing_doi
+11352,OpenAlex,Advancing Banking Systems with Federated Learning and a Fuzzy-Based Blockchain Framework for Secure and Efficient Transactions,2022,,missing_doi
+11370,OpenAlex,Enhancing Banking Systems with Federated Learning and Fuzzy-Based Blockchain Framework for Secure and Efficient Transactions,2022,,missing_doi
+11404,OpenAlex,Zero-knowledge Proof Based Federated Learning with Blockchain for COVID-19 Classification,2024,10.22266/ijies2024.1231.53,missing_authors
+11451,OpenAlex,Federated Learning: A Potentially Effective Method for Improving the Efficiency and Privacy of Machine Learning,2024,,missing_doi
+11533,OpenAlex,"Enhancing Federated Learning Security, Scalability, and Future Incentives",2024,10.33140/amlai.05.02.01,missing_authors
+11534,OpenAlex,Blockchain-Based Decentralized Federated Learning for Privacy-Preserving Traffic Flow Prediction: A Case Study with PeMS-8 Data,2024,,missing_doi
+11570,OpenAlex,A Multi-Trapdoor Editable Blockchain Scheme Based on Shamir Secret Sharing for Federated Learning,2023,,missing_doi
+11587,OpenAlex,"A Review on AI-Driven Personalized-Preventive Digital Healthcare Systems: Revolutionizing health equity through protecting systems’ privacy, security, and ethical phenomena",2026,,missing_doi
+11644,OpenAlex,Verifiable AI-Assisted Learning Analytics on Blockchain Networks,2026,,missing_doi
+11698,OpenAlex,"Algorithmic Governance of Secure Health Data Pipelines: Integrating HIPAA as Code, Blockchain, and Privacy Preserving IoMT Architectures in Cloud Based Clinical Ecosystems",2026,,missing_doi
+11699,OpenAlex,Deep Reinforcement Learning Routing Engine and Threat Detection in Vehicular Networks through Federated Intelligence and Blockchain-Based Trust Ledger,2025,,missing_doi
+11721,OpenAlex,SECURE BLOCKCHAIN-INTEGRATED FEDERATED LEARNING FRAMEWORK WITH SMPC-BASED MODEL VERIFICATION TO MITIGATE DATA POISONING IN HEALTHCARE SYSTEMS,2025,,missing_doi
+11801,OpenAlex,A Blockchain-Based Secure Architecture for Cyber-Physical Systems in Smart City Infrastructure,2025,,missing_doi
+11868,OpenAlex,Blockchain Technology Distributed Organization Management Structure of Incentive Model,2024,10.33168/jsms.2024.0515,missing_authors
+11871,OpenAlex,A Privacy-Preserving Federated Blockchain Framework For Secure Data Sharing In Multi-Cloud Environments,2024,,missing_doi
+11872,OpenAlex,Enhancing Sustainability in Secure Mobile Cloud Data and Blockchain Integration with FaaS for Healthcare,2025,10.22266/ijies2025.0731.17,missing_authors
+11910,OpenAlex,Design of an Integrated Model Using Blockchain-Supported Federated Deep Reinforcement Learning and Convolutional Recurrent Federated Learning for IoV Networks,2024,,missing_doi
+11926,OpenAlex,On managing security in smart e-health applications,2021,,missing_doi
+11959,OpenAlex,Federated Learning Framework for Privacy-Preserving Data Analytics in Smart Agriculture for Rural Environments,2025,,missing_doi
+11968,OpenAlex,PRIVACY-PRESERVING TECHNIQUES IN HEALTHCARE DATA REPOSITORIES: A COMPARATIVE ANALYSIS,2025,10.17148/ijireeice.2025.13819,missing_authors
+11976,OpenAlex,Privacy-Preserving Digital Twin Models for Smart Healthcare Applications,2026,,missing_doi
+11997,OpenAlex,Distributed Healthcare Privacy Protection in Emerging Cybersecurity Use of Sensitive Data,2025,,missing_doi
+12002,OpenAlex,AI Powered Predictive Analytics and Blockchain Integration for Autonomous Cybersecurity in Network Administration,2025,10.7753/ijcatr1403.1004,missing_authors
+12007,OpenAlex,Secure and Scalable Blockchain-Based Federated Learning for Cryptocurrency Fraud Detection: A Systematic Review,2026,,missing_doi
+12021,OpenAlex,"Federated Learning–Driven Intelligence for Autonomous and Medical Cyber-Physical Systems: Integrative Architectures, Privacy Preservation, and Deployment Challenges",2025,,missing_doi
+12037,OpenAlex,Architecting Federated Learning with Multi-Cloud Infrastructure for Privacy-Preserving Enterprise Cybersecurity Analytics,2026,,missing_doi
+12123,OpenAlex,BLOCK HUNTER FEDERATED LEARNING FOR CYBER THREAT HUNTING IN BLOCKCHAIN-BASED IIOT NETWORKS,2023,,missing_doi
+12153,OpenAlex,ENCRYPTION BASED CYBER SECURITY NETWORK MODEL DESIGN FOR IOT,2024,,missing_doi
+12160,OpenAlex,Privacy-Preserving Federated Learning for Iot Devices,2024,,missing_doi
+12165,OpenAlex,Federated Learning for Next-Gen Computing Applications and Privacy-Preserving Medical Diagnosis,2024,,missing_doi
+12185,OpenAlex,A Comprehensive Survey on the Integration of Machine Learning with Secure Blockchain-Based Applications,2026,,missing_doi
+12237,OpenAlex,Safeguarding Clinical Data Privacy through Block chain Integrated For Multi Disease Detection,2026,,missing_doi
+12242,OpenAlex,A COMPARATIVE OF MACHINE TEACHING ALGORITHMS FOR BLOCKCHAIN FRAUD DETECTION,2023,10.56726/irjmets42860,missing_authors
+12278,OpenAlex,Advanced Cyber Defense and Privacy Engineering for Intelligent Multi-Cloud Infrastructures,2024,,missing_doi
+12280,OpenAlex,"Emerging Frontiers in Cybersecurity: Navigating AI-Powered Threats, Quantum Risks, and the Rise of Zero-Trust Architectures",2025,10.30534/ijatcse/2025/031432025,missing_authors
+12297,OpenAlex,Blockchain-Powered Academic Integrity with AI-Based Plagiarism Detection,2026,,missing_doi
+12300,OpenAlex,A Privacy-Preserving Framework for Multi-Party Data Collaboration in Sea-Rail Intermodal Transport,2026,,missing_doi
+12334,OpenAlex,Blockchain-Assisted Federated Explainable Deep Learning Framework for Real-Time Cyberattack Detection in IoT-Enabled Healthcare Systems,2026,,missing_doi
+12347,OpenAlex,Blockchain-Assisted Federated Attribution and Incentive Mechanisms for Transparent Cross-Platform Advertising Measurement in AI-Driven Commerce Networks,2026,,missing_doi
+12413,OpenAlex,"Blockchain-Integrated Artificial Intelligence Frameworks for Cybersecurity, Anomaly Detection, and Resilient Cyber-Physical Infrastructure in Smart Financial and Industrial Ecosystems",2026,,missing_doi
+12417,OpenAlex,SafePay: A Privacy-Preserving Multi-Layer AI Framework for Real-Time Financial Fraud Detection,2026,,missing_doi
+12421,OpenAlex,Research progress on autonomous driving security technology for vehicle-road-cloud collaboration,2025,,missing_doi
+12435,OpenAlex,Functional encryption based approaches for practical privacy-preserving machine learning,2020,,missing_doi
+12505,OpenAlex,"Next-Generation Security Operations Centers: A Holistic Framework Integrating Artificial Intelligence, Federated Learning, and Sustainable Green Infrastructure for Proactive Threat Mitigation",2025,,missing_doi
+12509,OpenAlex,Ensuring Data Integrity and Security in AI-Based Lung Cancer Nodule Classification and Detection in CT Imaging Systems,2025,10.58346/jisis.2025.i1.023,missing_authors
+12513,OpenAlex,Design of an Iterative Method for Enhanced Routing in Blockchain-Powered IoMT Networks Featuring Patient-Condition-Aware and Predictive Time Series Techniques,2024,,missing_doi
+12593,OpenAlex,Privacy-Preserving Collaborative Intelligence System for Enterprise-Level Hybrid Cloud Orchestration,2026,,missing_doi
+12654,OpenAlex,Generative AI for Synthetic PHI: Privacy-Preserving Training Data for Healthcare LLMs,2024,,missing_doi
+12693,OpenAlex,"Edge Computing, 5G, and Cloud Security Convergence: Strengthening USA’s Critical Infrastructure Resilience",2025,10.7753/ijcatr1209.1003,missing_authors
+12746,OpenAlex,Distributed Edge Intelligence And Secure Microservice Orchestration For Privacy-Preserving Real-Time Fintech In The Internet Of Things Era,2026,,missing_doi
+12760,OpenAlex,AI-Driven Security Frameworks for IoT Devices in 5G Edge Environments: A Survey,2025,,missing_doi
+12775,OpenAlex,Blockchain-Enabled Federated Learning with Artificial Intelligence for Secure Distributed Analytics,2024,,missing_doi
+12786,OpenAlex,SECURE FEDERATED LEARNING ARCHITECTURE UTILIZING BLOCKCHAIN AND ADVANCED CRYPTOGRAPHY WITH BYZANTINE FAULT TOLERANCE FOR DECENTRALIZED DATA INTEGRITY,2025,,missing_doi
+12897,OpenAlex,Cyber Sentry: Strengthening Security Infrastructure for Industrial Cyber-Physical Systems Using Federated Deep Learning,2025,,missing_doi
+12932,OpenAlex,Enhancing Healthcare Analytics with Federated Learning and Cloud Technologies for Improved Patient Outcomes,2025,,missing_doi
+12939,OpenAlex,AI-POWERED DEFENSES: ENHANCING DIGITAL PAYMENT SECURITY THROUGH MACHINE LEARNING,2025,10.56726/irjmets73141,missing_authors
+12951,OpenAlex,AXIOS: Privacy-Preserving Vertical Federated Learning for Anomaly Detection,2026,,missing_doi
+12956,OpenAlex,Blockchain-AI Frameworks for Crop Yield Prediction and Land Registration,2026,,missing_doi
+12960,OpenAlex,A Systematic Review of Advanced Data Mining Techniques for Enhancing Cyber and Information Security,2024,,missing_doi
+12964,OpenAlex,AI-Based Threat Intelligence Sharing on Decentralized Networks,2026,,missing_doi
+12974,OpenAlex,Block Hunter Federated Learning For Cyber Threat Hunting In Block Chain Based IIOT Networks,2025,,missing_doi
+12982,OpenAlex,ChainML: Byzantine-Resilient Decentralized AI Training with Blockchain-Orchestrated Federated Learning,2025,,missing_authors; missing_doi
+13040,OpenAlex,Harnessing AI to Enhance Security in Digital Payments: Detection of High-Risk Users and Mitigation of Financial Crime,2024,,missing_doi
+13051,OpenAlex,Empirical Evaluation of a Privacy-Preserving Federated Learning Framework with Homomorphic Encryption for Decentralized Cyber Threat Intelligence Sharing: An Experimental Study,2024,,missing_doi
+13071,OpenAlex,Artificial Intelligence Based Anomaly Detection for Secure E-Government Transaction: A Review,2025,,missing_doi
+13082,OpenAlex,Deep Learning-Based Intrusion Detection Systems in VANETs: A systematic Literature Review,2025,,missing_doi
+13113,OpenAlex,Balancing Fraud Detection and Privacy Preservation in Decentralised Finance: A Systematic Review,2026,,missing_doi
+13117,OpenAlex,A Comprehensive Review on Enhancing Autonomous Transport with Federated Learning and Artificial Intelligence Integration,2024,,missing_doi
+13150,OpenAlex,2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC),2023,10.1109/icbc56567.2023.10174869,missing_authors
+13253,OpenAlex,Leveraging Generative AI and Large Language Models for Secure and Efficient Healthcare Data Management,2021,,missing_doi
+13274,OpenAlex,AI-Driven Predictive Threat Detection and Cyber Risk Mitigation: A Survey,2025,,missing_doi
+13275,OpenAlex,БЛОКЧЕЙН И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ. ВОЗМОЖНОСТИ И ПЕРСПЕКТИВЫ СОВМЕСТНОГО ИСПОЛЬЗОВАНИЯ,2024,,missing_doi
+13307,OpenAlex,Leveraging Generative AI and Large Language Models for Secure and Efficient Healthcare Data Management,2023,,missing_doi
+13333,OpenAlex,SCALABLE CYBERSECURITY MONITORING USING BIG DATA PLATFORMS AND AI: A REVIEW,2025,,missing_doi
+13356,OpenAlex,Artificial Intelligence and Internet of Things Enabled Disease Diagnosis Model for Smart Healthcare Systems,2023,,missing_doi
+13362,OpenAlex,Redefining Cybersecurity: Strategic Integration of Artificial Intelligence for Proactive Threat Defense and Ethical Resilience,2025,10.7753/ijsea1409.1009,missing_authors
+13416,OpenAlex,"Synchronized Realities: A Framework for Secure, Generative Digital Twin Ecosystems in Next-Generation Healthcare",2026,,missing_doi
+13437,OpenAlex,Review on Applications and Prospects of Federated Learning in New Power Systems,2026,,missing_doi
+13448,OpenAlex,Deep Learning and Cryptographic Techniques for Secure Medical X-Ray Imaging: A Comprehensive Review,2024,,missing_doi
+13465,OpenAlex,AgriPreserve: Intelligent Cold Storage System and Supply Optimization Platform for Agricultural Products,2026,10.64189/css.26404,missing_authors
+13470,OpenAlex,REAL-TIME AUGMENTED ANALYTICS FOR ENHANCING CUSTOMER EXPERIENCE IN BFSI,2025,,missing_doi
+13503,OpenAlex,"Intelligence, Infrastructure, and Ethics: Toward a Philosophy of Data Engineering",2024,,missing_doi
+13566,OpenAlex,СОЦИОКУЛЬТУРНЫЕ И ТЕХНОЛОГИЧЕСКИЕ АСПЕКТЫ ПРИМЕНЕНИЯ ЦИФРОВОЙ ОБРАЗОВАТЕЛЬНОЙ АНАЛИТИКИ В УНИВЕРСИТЕТСКОМ ОБРАЗОВАНИИ,2026,,missing_doi
+13576,OpenAlex,AI-Powered Systems for Cybersecurity: Techniques and Applications for Threat Detection,2025,,missing_doi
+13597,OpenAlex,Digital Twin Technology for Next-Gen Computing Applications and Smart Manufacturing,2023,,missing_doi
+13599,OpenAlex,Sexual Content Moderation and Addiction Prevention on Anonymous Video Chat Platforms: A Critical Review of Data-Driven and Cybersecurity Approaches,2025,,missing_doi
+13616,OpenAlex,Decentralized AI-Based Intrusion Detection for Zero-Day Attacks in Cloud Networks,2025,,missing_doi
+13647,OpenAlex,Research on the Path of Microcertification Integrated into Kindergarten Teachers’ Individualized Professional Development,2025,10.70517/ijhsa464109,missing_authors
+13659,OpenAlex,A review of key technologies for medical data governance,2026,,missing_doi
+13674,OpenAlex,Multi-Agent AI Systems for Cooperative Communication in Hybrid MANET-VANET Architectures,2026,,missing_doi
+13688,OpenAlex,Neural Network-Driven Bayesian Trust Prediction Model for Dynamic Resource Management in Cloud Computing and Big Data,2020,,missing_doi
+13718,OpenAlex,Decision Making and Performance Optimization in Distributed Cyber Physical Networks,2024,,missing_doi
+13727,OpenAlex,SMART WEARABLE DEVICES IN MEDICINE: A REVIEW,2025,,missing_doi
+13755,OpenAlex,Federated Ensemble Learning for Privacy-Preserving Intrusion Detection in Industry 5.0-Enabled Smart Factories,2026,,missing_doi
+13773,OpenAlex,"Future Landscape of Artificial Intelligence and Advanced Analytics: Opportunities, Challenges, and Industry Implications",2020,,missing_doi
+13777,OpenAlex,Digital Twin Technology for Predictive Maintenance in Industrial Systems,2025,,missing_doi
+13783,OpenAlex,Mobility-Aware Data Offloading Mechanisms for Edge-Fog Networks Supporting Autonomous Vehicles and 5G Communications: https://doi.org/10.5281/zenodo.19230644,2026,,missing_doi
+13785,OpenAlex,A DIGITAL TWIN-ASSISTED MOBILITY PREDICTION MODEL FOR SEAMLESS TASK HANDOVER IN IOV-ENABLED FOG COMPUTING,2026,,missing_doi
+13789,OpenAlex,Leveraging Cloud Infrastructure for Scalable and Secure Digital Finance Ecosystems,2020,10.17148/ijarcce.2020.91223,missing_authors
+13790,OpenAlex,Swarm learning e trattamento del dato sanitario. Sfide normative e prospettive di un approccio di intelligenza artificiale decentralizzato,2026,,missing_doi
+13873,OpenAlex,Federated Multi-Agent AI for Secure Data Mesh in Edge–Cloud Database Ecosystems,2026,10.56726/irjmets84164,missing_authors
+13900,OpenAlex,A Review on:: IoT-enabled Healthcare Monitoring Systems Based on Multi Sensor Unit,2025,,missing_doi
+13922,OpenAlex,Adaptive Edge-to-Cloud AI Inference Frameworks for Low-Latency Decision Support,2026,,missing_doi
+13930,OpenAlex,МЕТОДЫ ПРЕДСКАЗАНИЯ ФИНАНСОВЫХ МОШЕННИЧЕСТВ: СРАВНИТЕЛЬНЫЙ АНАЛИЗ ПОДХОДОВ МАШИННОГО ОБУЧЕНИЯ ДЛЯ ПРИМЕНЕНИЯ В БАНКОВСКОМ СЕКТОРЕ КАЗАХСТАНА,2026,,missing_doi
+13935,OpenAlex,SMART DEVICE REAL-TIME ANALYTICS USING EDGE COMPUTING AND AI,2025,10.56726/irjmets81791,missing_authors
+13940,OpenAlex,"Advancements in Edge Computing: Architectures, Challenges, and Opportunities",2024,,missing_doi
+13941,OpenAlex,AI-Driven Knowledge Graphs for Interoperable Digital Ecosystems,2025,,missing_doi
+13996,OpenAlex,An IoT-Enabled Secure Framework for Intelligent Remote Patient Monitoring and Preventive Healthcare,2026,,missing_doi
+14007,OpenAlex,Research on Hierarchical Open Sharing Mechanism and Full-Link Secure Traceability Technology for Ocean AI-Ready Datasets,2026,,missing_doi
+14013,OpenAlex,"Cloud-Orchestrated Ensemble Deep Learning Architectures for Predictive Modeling of Cryptocurrency Market Dynamics: A Theoretical, Empirical, and Cyber-Physical Systems Perspective",2026,,missing_doi
+14021,OpenAlex,Resilient Stream Workflow Orchestration with Multi-Layered Federated Edge Computing for Dynamic IoT Data Applications,2021,,missing_doi
+14053,OpenAlex,Leveraging Artificial Intelligence for Advanced Proactive Threat Detection and Real-Time Mitigation in SaaS Ecosystem Architectures,2021,,missing_doi
+14083,OpenAlex,Application and Development of Cloud-Edge Collaboration Technology in Low-Altitude Traffic Management at Airports,2024,,missing_doi
+14144,OpenAlex,Bias and Discrimination in Decentralized AI Decision Systems,2026,,missing_doi
+14150,OpenAlex,Retracted,2026,,missing_doi
+14244,OpenAlex,Ai-Driven Encryption Techniques for Secure Communication,2024,,missing_doi
+14275,OpenAlex,"A Hybrid Deep Learning Framework for Robust Deepfake Detection Using CNN, LSTM, and Vision Transformers",2024,,missing_doi
+14291,OpenAlex,CYBER THREAT DETECTION IN INDUSTRIAL AUTOMATION,2025,,missing_doi
+14293,OpenAlex,"Decentralized DNS Models for Secure, AI-Backed Content Delivery Networks",2025,,missing_doi

@@ -1,0 +1,3 @@
+# Scripts de base : Python 3.10+ ; dépendances standard uniquement.
+# Optionnel, pour accélérer la similarité des titres :
+# rapidfuzz>=3.0

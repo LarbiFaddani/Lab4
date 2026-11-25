@@ -1,0 +1,30 @@
+{
+  "fichier_entree": "raw_bibliographic_dataset.csv",
+  "lignes_entree": 14311,
+  "repartition_sources": {
+    "Scopus": 3751,
+    "WoS": 2416,
+    "IEEE": 3574,
+    "OpenAlex": 4570
+  },
+  "doi_absents_ou_non_valides": 219,
+  "groupes_doi_repetes": 3681,
+  "lignes_dans_groupes_doi": 10855,
+  "groupes_titres_repetes": 3722,
+  "lignes_dans_groupes_titres": 10973,
+  "groupes_exacts_conservateurs": 3703,
+  "lignes_dans_groupes_exacts": 10937,
+  "excedent_de_lignes_dans_groupes_exacts": 7234,
+  "candidats_flous_a_verifier": 48,
+  "conflits_a_verifier": 256,
+  "methode_fuzzy": "rapidfuzz",
+  "seuil_fuzzy_pct": 92,
+  "avertissement": "Aucune ligne supprimée. Les groupes exacts sont calculés par DOI ou par titre exact compatible. Les candidats flous et conflits doivent être vérifiés manuellement avant déduplication finale.",
+  "fichiers_crees": [
+    "doublons_doi_exact.csv",
+    "doublons_titre_exact.csv",
+    "groupes_doublons_exacts.csv",
+    "doublons_flous_a_verifier.csv",
+    "conflits_a_verifier.csv"
+  ]
+}

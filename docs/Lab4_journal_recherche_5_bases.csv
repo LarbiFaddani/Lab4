@@ -1,0 +1,6 @@
+﻿Base,Date,Requête,Filtres réellement observés,Résultats,Export / contrôle
+Scopus,22/11/2026,TITLE-ABS-KEY ; 3 groupes,Documents : 2020–2027 visibles ; article/review/conférence et English dans la requête,3 751 affichés,CSV téléchargé ; total du fichier à vérifier
+Web of Science,22/11/2026,TS= ; 3 groupes,2021–2027 et English visibles ; types à confirmer,2 416 affichés,"RIS : 3 fichiers (1–1000, 1001–2000, 2001–2416), contenus à compter"
+IEEE Xplore,22/11/2026,Requête booléenne ; 3 groupes,2020–2026 ; Conferences et Journals,3 574 vérifiés,6 CSV fusionnés → 3 574 BibTeX générés ; export BibTeX indirect
+ACM Digital Library,24/11/2026,Recherche avancée ; 3 groupes,Janvier 2020–novembre 2026 ; ACM Full-Text Collection,1 559 affichés,BibTeX non exporté : accès Premium requis
+OpenAlex,24/11/2026,Recherche titre/résumé/mots-clés ; requête simplifiée,Depuis 2020 ; catégories article OR review OR conference-paper ; langue/borne supérieure à confirmer,≈ 4 570 affichés,CSV téléchargé ; nombre exact de lignes et DOI à vérifier

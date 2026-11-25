@@ -1,0 +1,97 @@
+{
+  "input_file": "raw_bibliographic_dataset.csv",
+  "total": 14311,
+  "by_source": [
+    {
+      "source": "IEEE",
+      "count": 3574,
+      "missing_id": 0,
+      "missing_title": 0,
+      "missing_authors": 2,
+      "missing_year": 3,
+      "missing_source": 0,
+      "missing_doi": 31,
+      "year_2027": 0,
+      "year_outside_2020_2026": 3
+    },
+    {
+      "source": "OpenAlex",
+      "count": 4570,
+      "missing_id": 0,
+      "missing_title": 0,
+      "missing_authors": 23,
+      "missing_year": 0,
+      "missing_source": 0,
+      "missing_doi": 121,
+      "year_2027": 1,
+      "year_outside_2020_2026": 1
+    },
+    {
+      "source": "Scopus",
+      "count": 3751,
+      "missing_id": 0,
+      "missing_title": 0,
+      "missing_authors": 1,
+      "missing_year": 0,
+      "missing_source": 0,
+      "missing_doi": 37,
+      "year_2027": 39,
+      "year_outside_2020_2026": 39
+    },
+    {
+      "source": "WoS",
+      "count": 2416,
+      "missing_id": 0,
+      "missing_title": 0,
+      "missing_authors": 0,
+      "missing_year": 0,
+      "missing_source": 0,
+      "missing_doi": 30,
+      "year_2027": 16,
+      "year_outside_2020_2026": 16
+    }
+  ],
+  "missing_title": 0,
+  "missing_year": 3,
+  "missing_authors": 26,
+  "missing_doi": 219,
+  "missing_source": 0,
+  "year_2027": 56,
+  "at_least_3_sources_groups_by_doi": 2752,
+  "openalex_absent_scopus_wos_by_doi_and_title": 1340,
+  "challenge1": [
+    {
+      "doi": "10.1109/tii.2022.3168011",
+      "title": "Block Hunter: Federated Learning for Cyber Threat Hunting in Blockchain-Based IIoT Networks",
+      "sources": "IEEE; OpenAlex; Scopus; WoS",
+      "number_of_sources": 4,
+      "records": 4,
+      "years": "2022"
+    },
+    {
+      "doi": "10.1109/tii.2022.3215192",
+      "title": "Blockchain-Enabled Secure and Trusted Federated Data Sharing in IIoT",
+      "sources": "IEEE; OpenAlex; Scopus; WoS",
+      "number_of_sources": 4,
+      "records": 4,
+      "years": "2022; 2023"
+    },
+    {
+      "doi": "10.1109/tii.2021.3117481",
+      "title": "ChainFL: A Simulation Platform for Joint Federated Learning and Blockchain in Edge/Cloud Computing Environments",
+      "sources": "IEEE; OpenAlex; Scopus; WoS",
+      "number_of_sources": 4,
+      "records": 4,
+      "years": "2021; 2022"
+    }
+  ],
+  "challenge2": {
+    "title": "Blockchain-Based Privacy-Enhancing Federated Learning in Smart Healthcare: A Survey",
+    "year": "2025",
+    "doi": "10.3390/blockchains3010001",
+    "source": "OpenAlex",
+    "id": "doi:10.3390/blockchains3010001"
+  },
+  "deduplication": "Identification only; no records removed",
+  "scope_limitation": "Absence means absent from the provided exported datasets, not necessarily from entire bibliographic databases."
+}

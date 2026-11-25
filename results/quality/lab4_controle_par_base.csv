@@ -1,0 +1,5 @@
+﻿source,count,missing_id,missing_title,missing_authors,missing_year,missing_source,missing_doi,year_2027,year_outside_2020_2026
+IEEE,3574,0,0,2,3,0,31,0,3
+OpenAlex,4570,0,0,23,0,0,121,1,1
+Scopus,3751,0,0,1,0,0,37,39,39
+WoS,2416,0,0,0,0,0,30,16,16
